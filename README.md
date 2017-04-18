@@ -32,6 +32,21 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 <br>
 <b> File name: </b> LargestPalindromeProduct.java<br>
 <hr>
+
+<h3> Problem 5: Sum Square Difference </h3><br>
+<b> Description: </b> The sum of the squares of the first ten natural numbers is,<br>
+	1^2 + 2^2 + ... + 10^2 = 385
+	The square of the sum of the first ten natural numbers is,<br>
+	(1 + 2 + ... + 10)^2 = 552 = 3025<br>
+	Hence the difference between the sum of the squares of the first ten natural numbers 
+	and the square of the sum is 3025 − 385 = 2640.
+  <br>
+	Find the difference between the sum of the squares of the first one hundred natural numbers 
+	and the square of the sum. <br>
+<b> File name: </b> SumSquareDifference.java <br>
+<hr>
+
+
 <hr>
 <h3>Program: A program to find prime factors of a number </h3>
 <b> File name: </b> PrimeFactorProgram.java<br>
