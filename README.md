@@ -3,7 +3,7 @@
 <hr>
 <h3> Problem 1: Multiples of 3 or 5 </h3><br>
 <b> Description: </b> If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000. <br>
-<b> File name: </b> MultiplesOfThreeOrFive.java <br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/MultiplesOfThreeOrFive.java">MultiplesOfThreeOrFive.java </a> <br>
 <hr>
 
 <hr>
@@ -14,14 +14,14 @@ By starting with 1 and 2, the first 10 terms will be: <br>
 <br>
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, 
 find the sum of the even-valued terms <br>
-<b> File name: </b>EvenFibonacciNumber.java <br>
+<b> File name: </b><a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/EvenFibonacciNumber.java">EvenFibonacciNumber.java </a><br>
 <hr>
 
 <hr>
 <h3> Problem 3: Largest Prime Factor </h3><br>
 <b> Description: </b>The prime factors of 13195 are 5, 7, 13 and 29.
    What is the largest prime factor of the number 600851475143 ? <br>
-<b> File name: </b>LargestPrimeFactor.java <br>
+<b> File name: </b><a href = "">LargestPrimeFactor.java </a> <br>
 <hr>
 
 <hr>
@@ -30,7 +30,7 @@ find the sum of the even-valued terms <br>
   The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 Find the largest palindrome made from the product of two 3-digit numbers.
 <br>
-<b> File name: </b> LargestPalindromeProduct.java<br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/LargestPrimeFactor.java">LargestPalindromeProduct.java </a><br>
 <hr>
 
 <h3> Problem 5: Sum Square Difference </h3><br>
@@ -42,18 +42,18 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 	Find the difference between the sum of the squares of the first one hundred natural numbers 
 	and the square of the sum. <br>
   
-<b> File name: </b> SumSquareDifference.java <br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/SumSquareDifference.java">SumSquareDifference.java </a> <br>
 <hr>
 
 
 <hr>
 <h3>Program: A program to find prime factors of a number </h3>
-<b> File name: </b> PrimeFactorProgram.java<br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/PrimeFactorProgram.java">PrimeFactorProgram.java </a><br>
 <hr>
 
 <hr>
 <h3>Program: A program to check if the number is palindrome or not </h3><br>
-<b> File name: </b> PalindromeProgram.java<br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/PalindromeProgram.java">PalindromeProgram.java </a><br>
 <hr>
 
 <hr>
@@ -63,5 +63,5 @@ By starting with 1 and 2, the first 10 terms will be:
 <br>
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 <br>
-<b> File name: </b> PalindromeProgram.java<br>
+<b> File name: </b> <a href = "https://github.com/patilankita79/Project-Euler-Problems/blob/master/Project%20Euler/src/com/ankita/projecteuler/FibonacciSequence.java">FibonacciSequence.java </a><br>
 <hr>
