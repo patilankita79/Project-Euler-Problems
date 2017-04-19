@@ -10,9 +10,7 @@ import java.util.Scanner;
  *
  */
 
-/*
-Yahoo Interview Question
-*/
+
 class Primefactor{
 	public static void findPrimeFactor(long number){
 		
